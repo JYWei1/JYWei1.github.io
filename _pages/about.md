@@ -12,5 +12,5 @@ I'm a fourth year undergraduate student major in mechanical engineering. My rese
 
 You can find my CV here: [Jianya Wei's Curriculum Vitae](../assets/JIANYAWEI_CV.pdf).
 
-[Email](mailto:jywei20@outlook.com) / [Wechat](../images/wechat.jpg)
+[Email](mailto:jywei20@outlook.com) / [Wechat](../images/wechat.png)
 
