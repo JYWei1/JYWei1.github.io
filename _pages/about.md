@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a fourth year undergraduate student major in mechanical engineering. My research interest includes advanced manufacturing, robotics, control system, and finite element method.
 
-You can find my CV here: [Jianya Wei's Curriculum Vitae](../assets/JIANYAWEI_CV.pdf).
+You can find my CV here: [Jianya Wei's Curriculum Vitae](../assets/JIANYA WEI_CV.pdf).
 
 [Email](mailto:jywei20@outlook.com) / [Wechat](../images/wechat.png)
 
