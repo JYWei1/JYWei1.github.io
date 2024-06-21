@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.E. in Mechanical Engineering, Anhui University, 2024
+* B.E. in Mechanical Design Manufacturing and Automation, Anhui University, 2024
+* M.s. in Mechanical Engineering, University of Washington
 
 Research experience
 ======
@@ -74,6 +75,5 @@ Publications
   Venting". Chinese Journal of Vacuum Science and Technology. In production. 2023
 * Wenjing Ma, Xiaopeng Xu, Jianya Wei , Yonghao Gao, Xiaoqin Ge, Wenli Zhang, Le Fan, Yuanzhi Hong, Tao Huang, Sihui Wang. "Effect of thermal cycling on microstructure and adhesion 
   properties of Ti-Zr-V thin films". Applied Surface Science. Accepted. 2023
-* Jianya Wei, Qiyue Lu. "A Heterogeneous Parallel Framework With Julia to Solve Heat Conduction Equations Using Finite Element Method". ASME Summer Heat Transfer Conference 2024. Abstract 
-  accepted.
+
 
