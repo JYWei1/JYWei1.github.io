@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in Mechanical Design Manufacturing and Automation, Anhui University, 2024
-* M.s. in Mechanical Engineering, University of Washington
+* M.S. in Mechanical Engineering, University of Washington
 
 Research experience
 ======
